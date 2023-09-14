@@ -12,5 +12,4 @@ To retrieve an array representing the colour pattern of a colour pattern image f
 <img width="594" alt="image" src="https://github.com/bhakuni27/Lego-s-Life-of-George/assets/45992837/43e13a9c-6a57-4e1f-9a95-5a5448d3aff3">
 <img height="130" width="410" alt="image" src="https://github.com/bhakuni27/Lego-s-Life-of-George/assets/45992837/4010a88d-5ea8-4980-abf9-c0f622e084be">  
 
-
 > **NOTE:** Requires Statics and Machine Learning toolkit of MATLAB.
